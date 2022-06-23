@@ -15,7 +15,7 @@
     "ffmpeg-binaries": "^3.2.2",
     "ffmpeg-static": "^2.4.0",
     "jquery": "^3.4.1",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "node-fetch": "^2.6.0",
     "node-opus": "^0.3.2",
     "profanities": "^2.11.0",
